@@ -55,3 +55,5 @@
   program = gpg
 [pull]
   rebase = merges
+[init]
+  defaultBranch = hiroppy
